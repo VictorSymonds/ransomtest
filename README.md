@@ -3,6 +3,7 @@ automated actions.
 
 # Preparations
 You need to have Python installed
+
 Install cryptography library:
 'pip install cryptography'
 
@@ -22,19 +23,15 @@ In this project there are 3 files:
 
 |It will also generate the encryption key so you can decrypt it later
 
-
-
 # decryptor.py:
 
 |This file decrypts the files in the folder you choose
 
 |You may execute it this way (Im using the included important files folder):
 
-|'python decryptor.py "Important_Files/" "<Generated Encryption Key>"'
+|'python decryptor.py "Important_Files/" "<>"' (between the < and the opposite of it, add the encryption key)
 
 |Following this, all the .txt files in your folder will return back to how there were before
-
-
 
 # filegenerator.py
 
