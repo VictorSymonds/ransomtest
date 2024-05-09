@@ -4,8 +4,8 @@ automated actions.
 # Preparations
 You need to have Python installed
 
-Install cryptography library:
-'pip install cryptography'
+Install dependencies from requirements.txt:
+'pip install -r requirements.txt'
 
 
 
