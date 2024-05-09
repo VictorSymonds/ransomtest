@@ -1,11 +1,16 @@
 This is a python code made in terminal where i generate batch scripting
 automated actions.
 
+# Preparations
+You need to have Python installed
+Install cryptography library:
+'pip install cryptography'
+
+
+
 In this project there are 3 files:
 
-
-
-|ransomware.py:
+# ransomware.py:
 
 |This file encrypts the files in the folder you choose
 
@@ -19,7 +24,7 @@ In this project there are 3 files:
 
 
 
-|decryptor.py:
+# decryptor.py:
 
 |This file decrypts the files in the folder you choose
 
@@ -31,7 +36,7 @@ In this project there are 3 files:
 
 
 
-|filegenerator.py
+# filegenerator.py
 
 |This file generates a folder with 10 files containing info from your PC
 
